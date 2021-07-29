@@ -1,0 +1,16 @@
+D:\VectorTests\TechnicalTests\Tasks\Tasks\bin\Debug\net5.0\Tasks.exe
+D:\VectorTests\TechnicalTests\Tasks\Tasks\bin\Debug\net5.0\Tasks.deps.json
+D:\VectorTests\TechnicalTests\Tasks\Tasks\bin\Debug\net5.0\Tasks.runtimeconfig.json
+D:\VectorTests\TechnicalTests\Tasks\Tasks\bin\Debug\net5.0\Tasks.runtimeconfig.dev.json
+D:\VectorTests\TechnicalTests\Tasks\Tasks\bin\Debug\net5.0\Tasks.dll
+D:\VectorTests\TechnicalTests\Tasks\Tasks\bin\Debug\net5.0\ref\Tasks.dll
+D:\VectorTests\TechnicalTests\Tasks\Tasks\bin\Debug\net5.0\Tasks.pdb
+D:\VectorTests\TechnicalTests\Tasks\Tasks\obj\Debug\net5.0\Tasks.csproj.AssemblyReference.cache
+D:\VectorTests\TechnicalTests\Tasks\Tasks\obj\Debug\net5.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\VectorTests\TechnicalTests\Tasks\Tasks\obj\Debug\net5.0\Tasks.AssemblyInfoInputs.cache
+D:\VectorTests\TechnicalTests\Tasks\Tasks\obj\Debug\net5.0\Tasks.AssemblyInfo.cs
+D:\VectorTests\TechnicalTests\Tasks\Tasks\obj\Debug\net5.0\Tasks.csproj.CoreCompileInputs.cache
+D:\VectorTests\TechnicalTests\Tasks\Tasks\obj\Debug\net5.0\Tasks.dll
+D:\VectorTests\TechnicalTests\Tasks\Tasks\obj\Debug\net5.0\ref\Tasks.dll
+D:\VectorTests\TechnicalTests\Tasks\Tasks\obj\Debug\net5.0\Tasks.pdb
+D:\VectorTests\TechnicalTests\Tasks\Tasks\obj\Debug\net5.0\Tasks.genruntimeconfig.cache
